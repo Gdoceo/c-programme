@@ -1,4 +1,4 @@
-iname: C Build Workflow
+name: C Build Workflow
 
 on: [push, pull_request]
 
